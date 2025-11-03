@@ -1,0 +1,4 @@
+{
+  "name": "Python Dev Container",
+  "image": "my-python-dev:latest"
+}
